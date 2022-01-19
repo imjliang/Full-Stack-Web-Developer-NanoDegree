@@ -7,8 +7,6 @@ Taught by Google and experienced software engineers, learned the latest and best
 - Course Link: [https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044)
 - Certificate Link: [https://graduation.udacity.com/nd0044](https://graduation.udacity.com/nd0044)
 
-![](C:\Users\Jinjin\Dropbox\录屏\BootCamp\Udacity - Full Stack Web Developer\certificate.jpg)
-
 ## Built 5 Projects
 
 ### Artist and Venue Booking Site
